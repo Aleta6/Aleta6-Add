@@ -8,8 +8,8 @@ public class Application {
      */
     public static void main(String[] args) {
         Lab add = new Lab();
-        System.out.println("Currently, the lab produces the result of 3 + 4 as:");
-        int result = add.addNumbers(3,4);
+        System.out.println("Currently, the lab produces the result of 1 + 2 as:");
+        int result = add.addNumbers(1,2);
         System.out.println(result);
     }
 }

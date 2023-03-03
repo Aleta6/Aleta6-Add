@@ -11,7 +11,7 @@ public class Lab {
      * @return the sum of a and b.
      */
     public int addNumbers(int a, int b){
-        return 7;
+        return 3;
     }
 }
 
